@@ -1,6 +1,13 @@
 UTN-FRC
 =======
 
-Nombre: Alejandro Galfrascoli
-Legajo: 43029
-Año: 2021
+Trabajos Prácticos - Visión Por Computadora
+===========================================
+
+**Nombre**: Alejandro Galfrascoli
+
+
+**Legajo**: 43029
+
+
+**Año**: 2021
